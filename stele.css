@@ -10,6 +10,7 @@
     background-image: url(img/first_sec--back.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .main_first--container {
